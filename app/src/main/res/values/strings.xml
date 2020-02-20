@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string name="product_grade_unknown">Unknown</string>
+    <string name="product_grade_new">New</string>
+    <string name="product_grade_used">Used</string>
+
+    <string name="editor_delete_inventory_failed">Error with deleting inventory</string>
+    <string name="editor_delete_inventory_successful">Inventory deleted</string>
+
+    <string name="text_product_details">Product details</string>
+    <string name="text_tap_to_add_photo">Tap to add photo</string>
+    <string name="text_product_grade">Product grade</string>
+    <string name="text_supplier_details">Supplier details</string>
+    <string name="text_or">or</string>
+
+    <string name="hint_quantity">quantity</string>
+    <string name="hint_product_name">product name</string>
+    <string name="hint_model_no">model no.</string>
+    <string name="hint_price">price</string>
+    <string name="hint_name">name</string>
+    <string name="hint_phone">phone</string>
+    <string name="hint_email">email</string>
+
+    <string name="description_call">call</string>
+    <string name="description_send_email">Send email</string>
+
+</resources>

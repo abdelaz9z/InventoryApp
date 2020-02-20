@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_product_grade_option">
+        <item>@string/product_grade_unknown</item>
+        <item>@string/product_grade_new</item>
+        <item>@string/product_grade_used</item>
+    </string-array>
+</resources>
